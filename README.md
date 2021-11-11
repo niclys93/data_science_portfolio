@@ -9,8 +9,7 @@
 <br />
 <div align="center">
 
-[BTCLOGO](https://user-images.githubusercontent.com/85990464/141285786-6f2ce6b1-9d1f-438b-a0ea-5f23c74914b0.png)
-
+![btc](https://user-images.githubusercontent.com/85990464/141286577-111a6440-35bc-4c32-a681-c734de53d87b.jpg)
 <h3 align="center">Tweets Affecting BTC Price</h3>
 
   <p align="center">
