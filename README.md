@@ -9,17 +9,14 @@
 <br />
 <div align="center">
 
-![btc](https://user-images.githubusercontent.com/85990464/141286577-111a6440-35bc-4c32-a681-c734de53d87b.jpg)
-<h3 align="center">Tweets Affecting BTC Price</h3>
+<h3 align="center">Data Science Portfolio</h3>
 
-  <p align="center">
-    In this project, we aim to find out whether Tweets words affect the prices of Bitcoin or not. Dataset 1, obtained from Kaggle, provides us with Tweets with the #BTC or #Bitcoin hashtags from Feb 2021 until Aug 2021. The 2nd datseta, obtained from FRED Economic Data, Provides us with the prices of Bitcoin (BTC) from Sep 2016 to Sep 2021
-    <br />
-    <a href="https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets"><strong>Explore Dataset 1»</strong></a>
-    <br />
-    <a href="https://fred.stlouisfed.org/series/CBBTCUSD"><strong>Explore Dataset 2»</strong></a>
-    <br />
-  </p>
+<p align="center">
+  Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes are are presented in Python Notebooks.
+
+ _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+    
+ </p>
 </div>
 
 
@@ -53,62 +50,19 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+- ### Machine Learning
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+- ### Data Analysis and Visualisation
+- 
+	- __Python__
+		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 
+	_Tools: Pandas, Seaborn and Matplotlib_
 
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -121,40 +75,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -166,10 +86,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, please contact me. 
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Nicholas Lim - niclys93@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/niclys93/niclys93.github.io](https://github.com/niclys93/niclys93.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -200,4 +121,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nicholaslimys
-[product-screenshot]: images/screenshot.png
