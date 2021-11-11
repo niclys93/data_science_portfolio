@@ -1,37 +1,25 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Contributors][contributors-shield]][contributors-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+[BTCLOGO](https://user-images.githubusercontent.com/85990464/141285786-6f2ce6b1-9d1f-438b-a0ea-5f23c74914b0.png)
+
+<h3 align="center">Tweets Affecting BTC Price</h3>
 
   <p align="center">
-    project_description
+    In this project, we aim to find out whether Tweets words affect the prices of Bitcoin or not. Dataset 1, obtained from Kaggle, provides us with Tweets with the #BTC or #Bitcoin hashtags from Feb 2021 until Aug 2021. The 2nd datseta, obtained from FRED Economic Data, Provides us with the prices of Bitcoin (BTC) from Sep 2016 to Sep 2021
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets"><strong>Explore Dataset 1»</strong></a>
     <br />
+    <a href="https://fred.stlouisfed.org/series/CBBTCUSD"><strong>Explore Dataset 2»</strong></a>
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
