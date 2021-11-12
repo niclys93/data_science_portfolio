@@ -33,7 +33,7 @@
 	- __Python__
 		- [Tweets Affecting Bitcoin Prices](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of Tweet words and their impact on Bitcoin Prices in the Year 2021 (Feb to Aug 2021). Outcome: Identified Top 10 Tweet Words associated with Significant BTC price increase/decrease.
 
-		- [Coffee Stock Futures Price & Quality Analysis](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Evaluate coffee future pricing along with coffee quality to identify ideal coffee pricing for purchase. Performed transformation of data to achieve Normal distribution and ran statistical tests to support hypothesis. Outcome: Identified ideal price range for business to purchase Coffee Futures.
+		- [Coffee Stock Futures Price & Quality Analysis](https://github.com/niclys93/data_science_portfolio/blob/163bd6cd7c71e6594c6c623f9b67547e3b8de3a1/Coffee%20Futures%20&%20Quality%20Analysis/Coffee%20Futures%20&%20Quality%20Analysis_Final.ipynb): Evaluate coffee future pricing along with coffee quality to identify ideal coffee pricing for purchase. Performed transformation of data to achieve Normal distribution and ran statistical tests to support hypothesis. Outcome: Identified ideal price range for business to purchase Coffee Futures.
 
 	_Tools: NLTK, Pandas, Seaborn and Matplotlib_
 
