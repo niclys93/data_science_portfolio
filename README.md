@@ -24,7 +24,7 @@
 
 - ### Machine Learning
 
-	- [Supermarket Customerbase Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict product spending based on customer demographics using various statistical analysis tools. Outcome: Identified ideal ML model for marketing team to predict amount of Wine spending based on customer annual income.
+	- [Supermarket Customerbase Analysis](https://github.com/niclys93/data_science_portfolio/blob/8f81bcd5480d176019c06e9d391a0b4d7bafebdc/Supermarket%20Customerbase%20Analysis/Modelling%20Project_v2.ipynb): A model to predict product spending based on customer demographics using various statistical analysis tools. Outcome: Identified ideal ML model for marketing team to predict amount of Wine spending based on customer annual income.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
