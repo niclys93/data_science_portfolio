@@ -2,7 +2,7 @@
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
 
 
 <!-- PROJECT LOGO -->
@@ -20,49 +20,22 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 ## Contents
 
 - ### Machine Learning
 
-	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Supermarket Customerbase Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict product spending based on customer demographics using various statistical analysis tools. Outcome: Identified ideal ML model for marketing team to predict amount of Wine spending based on customer annual income.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
 - ### Data Analysis and Visualisation
-- 
-	- __Python__
-		- [Scalable Walkability Analysis of Melbourne](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 
-	_Tools: Pandas, Seaborn and Matplotlib_
+	- __Python__
+		- [Tweets Affecting Bitcoin Prices](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Analysis of Tweet words and their impact on Bitcoin Prices in the Year 2021 (Feb to Aug 2021). Outcome: Identified Top 10 Tweet Words associated with Significant BTC price increase/decrease.
+
+		- [Coffee Stock Futures Price & Quality Analysis](https://github.com/sajal2692/Scalable-Walkability-Analysis-of-Melbourne): Evaluate coffee future pricing along with coffee quality to identify ideal coffee pricing for purchase. Performed transformation of data to achieve Normal distribution and ran statistical tests to support hypothesis. Outcome: Identified ideal price range for business to purchase Coffee Futures.
+
+	_Tools: NLTK, Pandas, Seaborn and Matplotlib_
 
 <!-- CONTACT -->
 ## Contact
@@ -75,13 +48,6 @@ Project Link: [https://github.com/niclys93/niclys93.github.io](https://github.co
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
